@@ -1,0 +1,13 @@
+body {
+    color: red; /* Có thể thừa kế */
+    border: 3px solid green; /* Không thể thừa kế */
+}
+
+h1, p {
+    border: inherit;
+}
+
+p {
+     background: red;
+     color: #ffff00;
+}
