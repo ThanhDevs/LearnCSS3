@@ -32,7 +32,7 @@ https://developer.mozilla.org/vi/docs/Web/CSS
 ## Kế hoạch cho video
 * Mỗi video chỉ bao gồm một điểm chính, và sẽ được không chế trong vòng khoảng 5 - 15p 
 * Code sẽ được chia sẻ:
-  - https://github.com/hcjtem/LearnCSS3
+  - https://github.com/ThanhDevs/LearnCSS3
 
 ## Website & Youtube 
 
